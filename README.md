@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Abukbeker%20👋&fontSize=70&animation=fadeIn" />
   
-  <h3>🚀 Flutter & Backend php Developer</h3>
+  <h3> Flutter & Backend php Developer</h3>
   <p><i>Turning complex problems into elegant, high-performance digital solutions.</i></p>
 
   <img src="https://github.com/user-attachments/assets/deca4d24-92d6-4c4d-bc1e-3348e3ca656a" width="160" style="border-radius:50%; border: 3px solid #00cba9;" />
