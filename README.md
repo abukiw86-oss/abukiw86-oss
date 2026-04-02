@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Abukbeker%20👋&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Abubeker%20👋&fontSize=70&animation=fadeIn" />
   
   <h3> Flutter & Backend php Developer</h3>
   <p><i>Turning complex problems into elegant, high-performance digital solutions.</i></p>
@@ -40,7 +40,7 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 | **Architecture** | Built with a high-speed PHP API and secure MySQL backend. |
 
 <p align="center">
-  <a href="https://github.com/abukiw86-oss/addis-entrance-hub-release/releases/latest">
+  <a href="https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases/latest">
     <img src="https://img.shields.io/badge/Download_App-24292e?style=for-the-badge&logo=android&logoColor=46e199"/>
   </a>
 </p>
