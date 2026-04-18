@@ -3,9 +3,6 @@
   
   <h3> Flutter & Backend php Developer</h3>
   <p><i>Turning complex problems into elegant, high-performance digital solutions.</i></p>
-
-  <img src="https://github.com/user-attachments/assets/deca4d24-92d6-4c4d-bc1e-3348e3ca656a" width="160" style="border-radius:50%; border: 3px solid #00cba9;" />
-
   <p>
     <a href="https://linkedin.com/in/abubeker-behre-3a6a27394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:abukiw86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
