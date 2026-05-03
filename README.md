@@ -22,7 +22,7 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 
 ###  Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php,mysql,firebase,git,github,vscode,postman,figma" />
 </div>
 
 ---
