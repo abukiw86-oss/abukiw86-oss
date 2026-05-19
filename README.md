@@ -27,7 +27,8 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 
 ---
 
-###  Featured Project: Addis Entrance Hub
+###  Featured Projects 
+## 1 - Addis Entrance Hub
 > A comprehensive mobile learning ecosystem designed to empower students for academic success.
 
 | Feature | Description |
@@ -43,6 +44,22 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 </p>
 
 ---
+## 2 GPS Team Tracker
+> This application provides sub-second synchronization for group travelers, field teams, or friends, featuring live road-network routing and dynamic session management.
+
+.
+
+| Feature | Description |
+| :--- | :--- |
+| **Sub-Second Sync:** | Powered by Firebase Realtime Database for near-zero latency location updates across all peers. |
+| **Dynamic Session Logic:** | Create or join private tracking "Rooms" using unique 6-digit alpha-numeric codes. |
+| **Smart Routing:** |Integrated OSRM (Open Source Routing Machine) API to draw real-road paths between users, not just "as the crow flies." |
+
+<p align="center">
+  <a href="https://github.com/abukiw86-oss/GPS-Team-Tracker/releases/latest">
+    <img src="https://img.shields.io/badge/Download_App-24292e?style=for-the-badge&logo=android&logoColor=46e199"/>
+  </a>
+</p>
 
 ###  Performance & Impact
 <div align="center">
@@ -60,7 +77,3 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 - [ ]  Mastering **Clean Architecture** and **BLoC** in Flutter.
 - [ ]  Transitioning to scalable Microservices.
 - [ ]  Contributing to Open Source and remote collaborations.
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
