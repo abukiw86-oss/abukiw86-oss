@@ -44,7 +44,7 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 </p>
 
 ---
-## 2 GPS Team Tracker
+## 2 Momo
 > This application provides sub-second synchronization for group travelers, field teams, or friends, featuring live road-network routing and dynamic session management.
 
 .
@@ -56,7 +56,7 @@ I am a **Full-Stack Mobile Developer**   specializing in creating seamless user 
 | **Smart Routing:** |Integrated OSRM (Open Source Routing Machine) API to draw real-road paths between users, not just "as the crow flies." |
 
 <p align="center">
-  <a href="https://github.com/abukiw86-oss/GPS-Team-Tracker/releases/latest">
+  <a href="https://github.com/abukiw86-oss/Momo/releases/latest">
     <img src="https://img.shields.io/badge/Download_App-24292e?style=for-the-badge&logo=android&logoColor=46e199"/>
   </a>
 </p>
